@@ -35,3 +35,15 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repository
    ```sh
    git clone https://github.com/Navdip-2003/edu-sparkle.git
+
+2. Install NPM packages
+   ```sh
+   npm install
+   # or
+   yarn install
+
+3. Start the development server
+   ```sh
+   npm start
+   # or
+   yarn start
